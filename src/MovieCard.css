@@ -1,0 +1,34 @@
+.movie {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.movie-poster {
+    max-width: 250px;
+
+    border-radius: 8px;
+}
+
+.heart-icon {
+    margin-right: 20px; 
+}
+
+.heart-icon {
+    font-size: 20px;
+  }
+
+  .heart-icon:hover {
+    cursor: pointer;
+  }
+
+  .eye-icon {
+    font-size: 20px;
+  }
+
+  .eye-icon:hover {
+    cursor: pointer;
+
+  }
